@@ -1,4 +1,4 @@
-# python-bot-base-cogs
+# Python Bot Template for Discord
 
 This is discord bot with cogs. you can use this repo as a base for your project
 
