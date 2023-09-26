@@ -6,6 +6,7 @@ import os
 
 # setting up discord bot client
 bot = commands.Bot(command_prefix=f'{settings["prefix"]}', intents=disnake.Intents().all())
+bot.remove_command("help")
 
 # logging about starting bot
 @bot.event
